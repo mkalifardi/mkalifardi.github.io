@@ -21,7 +21,6 @@ permalink: /about/
 
 - High performing project manager with ~9 years’ experience successfully delivering and managing various infrastructure project for infrastructure developer and mining company in Indonesia.
 - Resourceful communicator, adept at establishing and developing relationships across cultures, all organizational levels. Able to motivate operation teams, efficiently oversee projects and accelerated work schedules.
-- Extensive expertise conceptualisation and financial assessment to optimize investment returns for owners.
 - Achievements include:
     - Led the reuse of tire waste from hauling trucks as a sustainable material in structural support, reducing landfill waste and enhancing construction durability.
     - Implemented and coached the team in Autodesk BIM, improving project efficiency, streamlining workflows, and reducing material waste through precise planning and resource management
@@ -40,6 +39,7 @@ permalink: /about/
 ### Experience
 
 **Civil & Construction Assistant Manager — PT ANTAM**
+
 *Jul 2021 – Jun 2024*
 
 - Manage mine infrastructures, building, water utility system, and ensure compliance to applicable standards and safety regulations.
@@ -48,6 +48,7 @@ permalink: /about/
 - Conduct people and performance review: people development, competency review, and compliance.
 
 **Civil Engineer — PT ANTAM**
+
 *Jan 2019 – Jun 2021*
 
 - Prepared technical and financial evaluations for engineering projects  
@@ -55,6 +56,7 @@ permalink: /about/
 - Designed site layout plans using Civil 3D, AutoCAD, and QGIS
 
 **Assistant QHSE & Engineering Manager — PT Jasa Marga**
+
 *Aug 2016 – Dec 2018*
 
 - Supervised QHSE and construction documentation for Batang–Semarang toll road  
