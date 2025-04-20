@@ -65,27 +65,39 @@ permalink: /about/
 ### Recognition
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-  <img src="https://media.au.badgr.com/uploads/badges/assertion-FevBKvM4SJ-XM1H6ddgojg.svg?versionId=ggkwa3EbZFat0rQJDuCeaOYMGSXL7NPh" alt="Melbourne Plus Badge" width="70" height="70" style="border-radius: 6px;" />
+  <a href="https://au.badgr.com/public/assertions/FevBKvM4SJ-XM1H6ddgojg" target="_blank">
+    <img src="https://media.au.badgr.com/uploads/badges/assertion-FevBKvM4SJ-XM1H6ddgojg.svg?versionId=ggkwa3EbZFat0rQJDuCeaOYMGSXL7NPh" alt="Melbourne Plus Badge" width="70" height="70" style="border-radius: 6px;" />
+  </a>
   <div>
-    <strong>Melbourne Plus: People Leadership</strong><br />
+    <a href="https://au.badgr.com/public/assertions/FevBKvM4SJ-XM1H6ddgojg" target="_blank" style="font-weight: bold; text-decoration: none; color: inherit;">
+      Melbourne Plus: People Leadership
+    </a><br />
     University of Melbourne<br />
     Awarded Apr 2025
   </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-  <img src="https://media.au.badgr.com/uploads/badges/assertion-YmFkZ2Vib29rLTMxMmU0OTEyLTEzMDMtNDNmNy05OGIyLTU1MDlmYzBhZjdmZQ.svg?versionId=geRdJ6tG8b.sYx_rXiD8knNiJYiSApyC" alt="Melbourne Plus Badge" width="70" height="70" style="border-radius: 6px;" />
+  <a href="https://au.badgr.com/public/assertions/YmFkZ2Vib29rLTMxMmU0OTEyLTEzMDMtNDNmNy05OGIyLTU1MDlmYzBhZjdmZQ" target="_blank">
+    <img src="https://media.au.badgr.com/uploads/badges/assertion-YmFkZ2Vib29rLTMxMmU0OTEyLTEzMDMtNDNmNy05OGIyLTU1MDlmYzBhZjdmZQ.svg?versionId=geRdJ6tG8b.sYx_rXiD8knNiJYiSApyC" alt="Melbourne Plus Innovation Badge" width="70" height="70" style="border-radius: 6px;" />
+  </a>
   <div>
-    <strong>Melbourne Plus: Innovation</strong><br />
+    <a href="https://au.badgr.com/public/assertions/YmFkZ2Vib29rLTMxMmU0OTEyLTEzMDMtNDNmNy05OGIyLTU1MDlmYzBhZjdmZQ" target="_blank" style="font-weight: bold; text-decoration: none; color: inherit;">
+      Melbourne Plus: Innovation
+    </a><br />
     University of Melbourne<br />
     Awarded Sep 2024
   </div>
 </div>
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-  <img src="https://images.credly.com/images/95039132-9073-4745-94d5-33b43b24ef79/image.png" alt="Autodesk Certified Badge" width="70" height="70" style="border-radius: 6px;" />
+  <a href="https://www.credly.com/badges/7c7f2abd-abc7-449b-91c8-755b16f155ed/linked_in_profile" target="_blank">
+    <img src="https://images.credly.com/images/95039132-9073-4745-94d5-33b43b24ef79/image.png" alt="Autodesk Certified Badge" width="70" height="70" style="border-radius: 6px;" />
+  </a>
   <div>
-    <strong>Autodesk Certified Professional in Civil 3D</strong><br />
+    <a href="https://www.credly.com/badges/7c7f2abd-abc7-449b-91c8-755b16f155ed/linked_in_profile" target="_blank" style="font-weight: bold; text-decoration: none; color: inherit;">
+      Autodesk Certified Professional in Civil 3D
+    </a><br />
     Autodesk<br />
     Awarded Oct 2022
   </div>
