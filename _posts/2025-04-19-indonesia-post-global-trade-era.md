@@ -73,31 +73,42 @@ It needs to define — and defend — a **national value proposition** grounded 
 
 Indonesia’s lack of regulatory certainty isn’t just a theoretical issue — it’s already triggering **capital flight** in real sectors like **textiles and light manufacturing**.
 
-Many companies, particularly in the **garment and textile industry**, are moving their production facilities to **Vietnam, Bangladesh, and even Latin America**, citing:
+Many companies, particularly in the **garment and textile industry**, are relocating production to **Vietnam and other Southeast Asian countries**, citing:
 
-- **Ketidakpastian hukum (legal uncertainty)** — policies often change with little notice, lacking transparency or judicial recourse.
-- **Criminalisation of business actors** — legal tools are often used arbitrarily to pressure, punish, or silence companies over compliance issues.
-- **Pungutan liar (illegal levies)** — systemic extortion and unofficial payments demanded by:
-  - Grassroots operatives (preman)
-  - Local community groups (ormas)
-  - Lower-level bureaucrats and village-level officials
+- **Ketidakpastian hukum (legal uncertainty)** — policy inconsistencies and opaque enforcement mechanisms.
+- **Criminalisation of business actors** — where regulatory tools are weaponized for rent-seeking or coercion.
+- **Pungutan liar (illegal levies)** — systemic extortion and unofficial fees imposed by:
+  - Local thugs (preman)
+  - Ormas (community organizations)
+  - Village-level officials and low-ranking bureaucrats
 
-> These "informal costs" — difficult to quantify but impossible to avoid — make doing business in Indonesia unpredictable and unattractive.
+> These "informal costs" — difficult to measure but deeply embedded — make Indonesia a high-friction environment for doing business.
 
 As a result:
-- Manufacturers are **shutting down Indonesian operations**
-- Tens of thousands of factory workers are being laid off, especially in West Java and Central Java
-- Investors are redirecting expansion capital to **jurisdictions with better contract enforcement, fewer middlemen, and stronger labor stability**
+- Textile manufacturers are **shutting down Indonesian operations**
+- Tens of thousands of factory workers have lost jobs, especially in West and Central Java
+- Expansion capital is being redirected toward countries with **stronger legal protection, clearer contract enforcement, and fewer layers of middlemen**
 
-Indonesia isn't losing to cheaper labor — it's losing to **governance systems that are clearer, faster, and fairer.**
+Indonesia is not losing to cheaper labor — it’s losing to **governance systems that are cleaner, faster, and more stable**.
 
-This loss of industrial base has long-term consequences:
-- Eroded local supply chains
-- Reduced export capacity
-- Lower foreign exchange earnings
-- Weakened manufacturing capability for infrastructure delivery (e.g. steel, cement, textiles for labor uniforms, PPE, etc.)
+---
 
-> Without systemic reform, Indonesia risks becoming a **resource exporter and importer of finished goods** — repeating the post-colonial pattern it once tried to escape.
+#### The Missed Opportunity: Insight from the Global South
+
+Indonesia has long hoped to capitalize on the U.S.–China trade rift by positioning itself as an alternative manufacturing hub. But as noted by [Rakhmat and Purnama](https://chinaglobalsouth.com/analysis/indonesias-manufacturing-gamble-turning-trade-wars-into-economic-opportunity/), the strategy so far suffers from a lack of coherence.
+
+Key takeaways:
+
+- Indonesia cannot **copy-paste Vietnam’s model** — its industrial base, labor dynamics, and administrative capacity differ significantly.
+- Rather than leveraging trade wars as a launchpad for strategic reform, Indonesia risks **undermining its own industrial ecosystem** through ad hoc deregulation and reactive policymaking.
+- Offering tariff concessions and removing local content rules **may attract short-term headlines**, but they jeopardize long-term investor trust — especially among firms that **already complied with older, stricter rules**.
+
+The deeper problem isn’t just external policy — it’s internal governance:
+- A legal system perceived as unstable
+- Local governments applying rules inconsistently
+- Investment promotion agencies disconnected from policy enforcement
+
+> Indonesia isn’t suffering from lack of opportunity — it’s suffering from **lack of internal coherence** and **policy follow-through**.
 
 ---
 
@@ -105,6 +116,4 @@ This loss of industrial base has long-term consequences:
 
 Indonesia can’t control global tariffs — but it can control its **credibility, consistency, and clarity**. That’s what long-term investors — and citizens — care about most.
 
-> In a world where trade rules are being rewritten, Indonesia must decide whether to be a price taker or a rule shaper.
-
----
+> In a world where trade rules are being rewritten, Indonesia must decide whether to be a price taker, a rule shaper — or worse, a cautionary tale.
