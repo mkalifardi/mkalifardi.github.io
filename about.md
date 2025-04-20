@@ -8,9 +8,10 @@ permalink: /about/
 
 
 # **M Kalifardi**  
-*Capital Porjects and Investment*
-
+*Capital Projects and Investment*
+<p>
 Melbourne · [Email](mailto:m.kalifardi@gmail.com) · [GitHub](https://github.com/mkalifardi)
+</p>
 </center>
 
 ---
