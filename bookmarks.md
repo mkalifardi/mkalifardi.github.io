@@ -4,8 +4,6 @@ title: bookmarks
 permalink: /bookmarks/
 ---
 
-# Bookmarks
-
 A collection of useful resources, articles, tools, and papers I'm currently reading or want to reference later.
 
 ## Transport & Mobility

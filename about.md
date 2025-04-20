@@ -4,16 +4,15 @@ title: about
 permalink: /about/
 ---
 
-<p style="text-align: center;">
-# **M Kalifardi**  
-</p>
-<p style="text-align: center;">
-*Capital Projects and Investment*
-</p>
-<p style="text-align: center;">
-Melbourne · [Email](mailto:m.kalifardi@gmail.com) · [GitHub](https://github.com/mkalifardi)
-</p>
+<div style="text-align: center;">
 
+# M Kalifardi
+
+*Capital Projects and Investment*
+
+Melbourne · [Email](mailto:m.kalifardi@gmail.com) · [GitHub](https://github.com/mkalifardi)
+
+</div>
 
 ---
 
