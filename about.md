@@ -1,14 +1,14 @@
 ---
 layout: page
-title: 
+title: about
 permalink: /about/
 ---
 
 <center>
-<img src="/assets/img/profile.png" width="140" style="border-radius: 50%;" alt="profile photo" />
 
-# **Kalif**  
-*Infrastructure Delivery & Capital Project Enthusiast*
+
+# **M Kalifardi**  
+*Capital Porjects and Investment*
 
 Melbourne · [Email](mailto:m.kalifardi@gmail.com) · [GitHub](https://github.com/mkalifardi)
 </center>
