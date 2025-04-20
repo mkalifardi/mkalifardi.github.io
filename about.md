@@ -5,13 +5,13 @@ permalink: /about/
 ---
 
 <div style="text-align: center;">
-
-# M Kalifardi
-
-*Capital Projects and Investment*
-
-Melbourne · [Email](mailto:m.kalifardi@gmail.com) · [GitHub](https://github.com/mkalifardi)
-
+  <h1>M Kalifardi</h1>
+  <p><em>Capital Projects and Investment</em></p>
+  <p>
+    Melbourne · 
+    <a href="mailto:m.kalifardi@gmail.com">Email</a> · 
+    <a href="https://github.com/mkalifardi">GitHub</a>
+  </p>
 </div>
 
 ---
