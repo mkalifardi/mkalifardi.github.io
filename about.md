@@ -6,12 +6,12 @@ permalink: /about/
 
 # Muhammad Kalifardi
 
-📍 Melbourne, VIC  
-🔗 [linkedin.com/in/mkalifardi](https://linkedin.com/in/mkalifardi)
+Melbourne, VIC  
+[linkedin.com/in/mkalifardi](https://linkedin.com/in/mkalifardi)
 
 ---
 
-## 🧠 Summary
+## Summary
 
 High-performing project manager with ~9 years’ experience leading and managing infrastructure projects in mining and transport sectors. Strong communicator with cross-cultural team leadership, advanced technical expertise, and a proven track record in sustainable engineering and financial assessment.
 
@@ -21,7 +21,7 @@ High-performing project manager with ~9 years’ experience leading and managing
 
 ---
 
-## 💼 Skills
+## Skills
 
 **Project & Operations:** Project Management, Facility Maintenance, Operations Strategy  
 **Business & Planning:** P&L Management, Budgeting (CAPEX/OPEX), Vendor Coordination  
@@ -31,7 +31,7 @@ High-performing project manager with ~9 years’ experience leading and managing
 
 ---
 
-## 🏢 Experience
+## Experience
 
 ### **Civil & Construction Assistant Manager**  
 *PT ANTAM Tbk, Indonesia | Jul 2021 – Jun 2024*  
@@ -56,7 +56,7 @@ High-performing project manager with ~9 years’ experience leading and managing
 
 ---
 
-## 🎓 Education
+## Education
 
 **Master of Engineering Management**  
 *University of Melbourne, Australia | Jul 2024 – Jul 2025 (expected)*
@@ -69,7 +69,7 @@ High-performing project manager with ~9 years’ experience leading and managing
 
 ---
 
-## 📜 Certifications
+## Certifications
 - **Melbourne Plus People Leadership Credential** (2025)
 - **IELTS Academic 7.5** (2024–2026)  
 - **Autodesk Certified Professional – Civil 3D** (2022–2025)  
@@ -78,7 +78,7 @@ High-performing project manager with ~9 years’ experience leading and managing
 
 ---
 
-## 🏆 Awards & Activities
+## Awards & Activities
 
 - 🏅 **Top 16 Finalist**, Melbourne Business School Case Competition 2024  
 - 🥇 **Gold Award**, Tire Waste Reinforcement Innovation (PT ANTAM, 2023)  
