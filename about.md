@@ -39,7 +39,7 @@ permalink: /about/
 
 ### Experience
 
-**Civil & Construction Assistant Manager — PT ANTAM**  
+**Civil & Construction Assistant Manager — PT ANTAM**
 *Jul 2021 – Jun 2024*
 
 - Manage mine infrastructures, building, water utility system, and ensure compliance to applicable standards and safety regulations.
@@ -47,7 +47,7 @@ permalink: /about/
 - Plan capital expenditure and operational expenditure budget for annual construction and maintenance programs. 
 - Conduct people and performance review: people development, competency review, and compliance.
 
-**Civil Engineer — PT ANTAM** 
+**Civil Engineer — PT ANTAM**
 *Jan 2019 – Jun 2021*
 
 - Prepared technical and financial evaluations for engineering projects  
@@ -74,6 +74,23 @@ permalink: /about/
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+  <img src="https://media.au.badgr.com/uploads/badges/assertion-YmFkZ2Vib29rLTMxMmU0OTEyLTEzMDMtNDNmNy05OGIyLTU1MDlmYzBhZjdmZQ.svg?versionId=geRdJ6tG8b.sYx_rXiD8knNiJYiSApyC" alt="Melbourne Plus Badge" width="70" height="70" style="border-radius: 6px;" />
+  <div>
+    <strong>Melbourne Plus: Innovation</strong><br />
+    University of Melbourne<br />
+    Awarded Sep 2024
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
+  <img src="https://images.credly.com/images/95039132-9073-4745-94d5-33b43b24ef79/image.png" alt="Autodesk Certified Badge" width="70" height="70" style="border-radius: 6px;" />
+  <div>
+    <strong>Autodesk Certified Professional in Civil 3D</strong><br />
+    Autodesk<br />
+    Awarded Oct 2022
+  </div>
+</div>
 
 ---
 
