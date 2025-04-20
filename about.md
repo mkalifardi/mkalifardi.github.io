@@ -38,8 +38,7 @@ permalink: /about/
 
 ### Experience
 
-**Civil & Construction Assistant Manager — PT ANTAM Tbk**
-
+**Civil & Construction Assistant Manager — PT ANTAM Tbk**  
 *Jul 2021 – Jun 2024*
 
 - Manage mine infrastructures, building, water utility system, and ensure compliance to applicable standards and safety regulations.
@@ -47,16 +46,14 @@ permalink: /about/
 - Plan capital expenditure and operational expenditure budget for annual construction and maintenance programs. 
 - Conduct people and performance review: people development, competency review, and compliance.
 
-**Civil Engineer — PT ANTAM Tbk**
-
+**Civil Engineer — PT ANTAM Tbk**  
 *Jan 2019 – Jun 2021*
 
 - Prepared technical and financial evaluations for engineering projects  
 - Reviewed contractor claims, inspected site progress, and tracked costs  
 - Designed site layout plans using Civil 3D, AutoCAD, and QGIS
 
-**Assistant QHSE & Engineering Manager — PT Jasa Marga (Persero) Tbk**
-
+**Assistant QHSE & Engineering Manager — PT Jasa Marga (Persero) Tbk**  
 *Aug 2016 – Dec 2018*
 
 - Supervised QHSE and construction documentation for Batang–Semarang toll road  
