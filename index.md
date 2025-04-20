@@ -3,17 +3,23 @@ layout: home
 title: mnote
 ---
 
-Welcome to **mnote** 🌐🚧  
-This blog explores innovative ideas, data-driven research, and engineering practices in:
+Welcome to **mnote**  
+This site is my personal knowledge base — a second brain where I capture ideas, notes, and reflections from my professional work and ongoing learning.
 
-- 🚍 Transport system modeling and sustainable mobility
-- 🏗️ Infrastructure planning, design, and delivery
-- 📊 Decision-making and policy through engineering analysis
-- 🌎 Real-world case studies from around the globe
+I work at the intersection of:
+
+- Capital projects and infrastructure delivery  
+- Toll road and mining project development  
+
+Currently, I'm exploring and building knowledge in:
+
+- Transport systems and urban mobility  
+- Finance, economics, and project valuation  
+- Data-driven planning and strategic decision-making
 
 ---
 
 ### 📬 Latest Posts
 
-Check out the latest articles below — where civil engineering meets intelligent systems.  
-Built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
+Scroll down for recent notes — ideas in progress, practical insights, and technical deep dives.  
+Powered by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).

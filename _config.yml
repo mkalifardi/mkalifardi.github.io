@@ -21,10 +21,21 @@
 title: mnote
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about transportation and infrastructure engineering.
-keywords: transportation, infrastructure, engineering, traffic, planning, civil engineering, road design, traffic management, sustainable transportation
-  solutions, case studies, expert opinions, trends, technologies, best practices
-  quality of life, communities
+  A personal knowledge base — capturing insights, notes, and ideas from working on capital projects, infrastructure delivery, and investments, while learning transport, finance, and business.
+keywords: [
+  personal knowledge base,
+  engineering notes,
+  transport systems,
+  infrastructure projects,
+  capital project delivery,
+  investment planning,
+  transport planning,
+  project finance,
+  business learning,
+  infrastructure strategy,
+  technical writing,
+  systems thinking
+]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mkalifardi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
