@@ -9,7 +9,7 @@ As global trade transitions from a rules-based system to one shaped by strategic
 
 ---
 
-## 🌍 The Shifting Global Trade Landscape
+#### The Shifting Global Trade Landscape
 
 2025 marks a clear departure from the free trade paradigm that defined the post-WTO decades. Tariffs, industrial policy, and “friend-shoring” have replaced efficiency and openness as the logic behind trade.
 
@@ -21,7 +21,7 @@ Countries are no longer competing only on cost or access — but on strategic al
 
 ---
 
-## 🇮🇩 Indonesia’s Response: Tactical or Short-Sighted?
+#### Indonesia’s Response: Tactical or Short-Sighted?
 
 Rather than asserting a clear industrial position, Indonesia appears to be negotiating ad hoc — attempting to stay "neutral" in a polarized system.
 
@@ -34,24 +34,24 @@ Recent signals suggest that Indonesia may:
 
 ---
 
-## 🧩 The Risks of Sacrificing Policy Integrity
+#### The Risks of Sacrificing Policy Integrity
 
 Indonesia’s posture risks sending three dangerous messages:
 
-### 1. **Regulations are fluid and negotiable**
+##### 1. **Regulations are fluid and negotiable**
 Multinational companies that previously complied with strict TKDN rules may now face competitors who didn’t — eroding fairness and damaging trust in Indonesia as a predictable investment destination.
 
-### 2. **Investors can’t rely on long-term policy**
+##### 2. **Investors can’t rely on long-term policy**
 Infrastructure and energy investments often have 10–30 year horizons. Policy reversals mid-cycle increase perceived risk and may raise the cost of capital or deter strategic investors altogether.
 
-### 3. **Public costs are externalized**
+##### 3. **Public costs are externalized**
 Removing safeguards like domestic content or energy pricing mechanisms may shift the burden onto citizens — through higher prices, lost jobs, or reduced national capabilities.
 
 > Indonesia’s approach may help in the short term — but without legal certainty and consistent industrial direction, it risks **digging its own grave** in a post-global world.
 
 ---
 
-## 🔍 What’s Missing: A National Value Proposition
+#### What’s Missing: A National Value Proposition
 
 Countries like India, Vietnam, and Mexico are responding to trade realignment by clarifying their **strategic offers**: logistics hubs, semiconductor clusters, or energy corridors.
 
@@ -69,7 +69,7 @@ It needs to define — and defend — a **national value proposition** grounded 
 ---
 
 
-## 🏭 Flight of Industry: Manufacturers Are Leaving
+#### Flight of Industry: Manufacturers Are Leaving
 
 Indonesia’s lack of regulatory certainty isn’t just a theoretical issue — it’s already triggering **capital flight** in real sectors like **textiles and light manufacturing**.
 
@@ -101,7 +101,7 @@ This loss of industrial base has long-term consequences:
 
 ---
 
-## 🧠 Final Thought
+#### Final Thought
 
 Indonesia can’t control global tariffs — but it can control its **credibility, consistency, and clarity**. That’s what long-term investors — and citizens — care about most.
 
