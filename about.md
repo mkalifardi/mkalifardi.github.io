@@ -4,15 +4,16 @@ title: about
 permalink: /about/
 ---
 
-<center>
-
-
+<p style="text-align: center;">
 # **M Kalifardi**  
+</p>
+<p style="text-align: center;">
 *Capital Projects and Investment*
-<p>
+</p>
+<p style="text-align: center;">
 Melbourne · [Email](mailto:m.kalifardi@gmail.com) · [GitHub](https://github.com/mkalifardi)
 </p>
-</center>
+
 
 ---
 
@@ -100,7 +101,3 @@ Maintaining a markdown-first second brain (this site!) to document ongoing learn
 - [Email](mailto:m.kalifardi@gmail.com)
 
 ---
-
-## Download
-
-[Download PDF version](/assets/resume.pdf)

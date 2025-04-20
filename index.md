@@ -2,6 +2,7 @@
 layout: home
 title: mnote
 ---
+<h1 class="page-title">mnote</h1>
 
 Welcome to **mnote**!  
 This site is my personal knowledge base — a second brain where I capture ideas, notes, and reflections from my professional work and ongoing learning.

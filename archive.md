@@ -4,8 +4,6 @@ title: archive
 permalink: /archive/
 ---
 
-# Post Archive
-
 A chronological list of all posts on mnote.
 
 <ul>
