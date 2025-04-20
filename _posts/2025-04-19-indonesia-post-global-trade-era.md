@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Indonesia’s Position in the Post-Global Trade Era"
-date: 2025-04-20
+date: 2025-04-19
 tags: [indonesia, trade-policy, infrastructure, geopolitics, regulation]
 ---
 
