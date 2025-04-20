@@ -3,7 +3,7 @@ layout: home
 title: mnote
 ---
 
-Welcome to **mnote**  
+Welcome to **mnote**!  
 This site is my personal knowledge base — a second brain where I capture ideas, notes, and reflections from my professional work and ongoing learning.
 
 I work at the intersection of:
