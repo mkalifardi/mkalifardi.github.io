@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Transport and Infrastructure Engineering
+title: mnote
 ---
 
-Welcome to **Transport and Infrastructure Engineering** 🌐🚧  
+Welcome to **mnote** 🌐🚧  
 This blog explores innovative ideas, data-driven research, and engineering practices in:
 
 - 🚍 Transport system modeling and sustainable mobility

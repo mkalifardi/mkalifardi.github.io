@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Transportation and Infrastructure Engineering
+title: mnote
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about transportation and infrastructure engineering, including topics such as traffic engineering, transportation planning, and civil engineering.
+  A blog about transportation and infrastructure engineering.
 keywords: transportation, infrastructure, engineering, traffic, planning, civil engineering, road design, traffic management, sustainable transportation
   solutions, case studies, expert opinions, trends, technologies, best practices
   quality of life, communities
