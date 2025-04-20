@@ -23,7 +23,7 @@ permalink: /about/
 - Resourceful communicator, adept at establishing and developing relationships across cultures, all organizational levels. Able to motivate operation teams, efficiently oversee projects and accelerated work schedules.
 - Extensive expertise conceptualisation and financial assessment to optimize investment returns for owners.
 - Achievements include:
-    -Led the reuse of tire waste from hauling trucks as a sustainable material in structural support, reducing landfill waste and enhancing construction durability.
+    - Led the reuse of tire waste from hauling trucks as a sustainable material in structural support, reducing landfill waste and enhancing construction durability.
     - Implemented and coached the team in Autodesk BIM, improving project efficiency, streamlining workflows, and reducing material waste through precise planning and resource management
 
 
@@ -31,32 +31,28 @@ permalink: /about/
 
 ### Skills
 
-- **Project Delivery** – Infrastructure, stakeholder coordination, EPCM  
-- **Engineering Tools** – AutoCAD Civil 3D, Revit, MS Project, Power BI  
-- **Data & Decision Making** – SQL, Excel, Python, cost modeling, CAPEX/OPEX  
-- **Sectors** – Toll road, mining, power, transport, construction  
-- **Soft Skills** – Communication, team leadership, stakeholder management
-
+- **Key Skills** – Project Management, Stakeholder Management, Construction Management, Cost Control  
+- **Tools** – AutoCAD Civil 3D, Revit, MS Project, QGIS, SQL, Excel, Python, Power BI  
 ---
 
 ### Experience
 
-#### Civil & Construction Assistant Manager — PT ANTAM  
+**Civil & Construction Assistant Manager — PT ANTAM**  
 *Jul 2021 – Jun 2024*
 
-- Managed infrastructure projects in a mining area  
-- Oversaw utilities, earthworks, buildings, and mine road construction  
-- Delivered IDR 20B+ in CAPEX/OPEX with 5% cost savings  
-- Led a cross-functional team of engineers and contractors with zero LTI
+- Manage mine infrastructures, building, water utility system, and ensure compliance to applicable standards and safety regulations.
+- Manage cross-functional coordination, administration and third-party contractors for all construction and maintenance services. 
+- Plan capital expenditure and operational expenditure budget for annual construction and maintenance programs. 
+- Conduct people and performance review: people development, competency review, and compliance.
 
-#### Civil Engineer — PT ANTAM  
+**Civil Engineer — PT ANTAM** 
 *Jan 2019 – Jun 2021*
 
-- Prepared technical and financial evaluations for infrastructure projects  
+- Prepared technical and financial evaluations for engineering projects  
 - Reviewed contractor claims, inspected site progress, and tracked costs  
 - Designed site layout plans using Civil 3D, AutoCAD, and QGIS
 
-#### Assistant QHSE & Engineering Manager — PT Jasa Marga  
+**Assistant QHSE & Engineering Manager — PT Jasa Marga**
 *Aug 2016 – Dec 2018*
 
 - Supervised QHSE and construction documentation for Batang–Semarang toll road  
@@ -67,8 +63,8 @@ permalink: /about/
 
 ### Recognition
 
-**Certified Project Finance & Infrastructure** — Issued by Credly (2023)  
-![Credly Badge](/assets/img/credly-badge.png)
+**Melbourne Plus People Leadership** — University of Melbourne  (2025)  
+![Credly Badge](https://media.au.badgr.com/uploads/badges/assertion-FevBKvM4SJ-XM1H6ddgojg.svg?versionId=ggkwa3EbZFat0rQJDuCeaOYMGSXL7NPh)
 
 ---
 
