@@ -17,10 +17,15 @@ permalink: /about/
 ---
 
 ## Summary
+___
 
-Engineer with ~9 years of experience managing capital infrastructure projects in the toll road and mining sectors.  
-Focused on project delivery, planning, stakeholder alignment, and financial evaluation.  
-Currently exploring transport systems, finance, and business strategy through academic and personal research.
+•	High performing project manager with ~9 years’ experience successfully delivering and managing various infrastructure project for infrastructure developer and mining company in Indonesia.
+•	Resourceful communicator, adept at establishing and developing relationships across cultures, all organizational levels. Able to motivate operation teams, efficiently oversee projects and accelerated work schedules.
+•	Extensive expertise conceptualisation and financial assessment to optimize investment returns for owners.
+•	Achievements include:
+    o	Led the reuse of tire waste from hauling trucks as a sustainable material in structural support, reducing landfill waste and enhancing construction durability.
+    o	Implemented and coached the team in Autodesk BIM, improving project efficiency, streamlining workflows, and reducing material waste through precise planning and resource management
+
 
 ---
 
