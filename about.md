@@ -16,20 +16,20 @@ permalink: /about/
 
 ---
 
-## Summary
-___
+### Summary
 
-•	High performing project manager with ~9 years’ experience successfully delivering and managing various infrastructure project for infrastructure developer and mining company in Indonesia.
-•	Resourceful communicator, adept at establishing and developing relationships across cultures, all organizational levels. Able to motivate operation teams, efficiently oversee projects and accelerated work schedules.
-•	Extensive expertise conceptualisation and financial assessment to optimize investment returns for owners.
-•	Achievements include:
-    o	Led the reuse of tire waste from hauling trucks as a sustainable material in structural support, reducing landfill waste and enhancing construction durability.
-    o	Implemented and coached the team in Autodesk BIM, improving project efficiency, streamlining workflows, and reducing material waste through precise planning and resource management
+
+- High performing project manager with ~9 years’ experience successfully delivering and managing various infrastructure project for infrastructure developer and mining company in Indonesia.
+- Resourceful communicator, adept at establishing and developing relationships across cultures, all organizational levels. Able to motivate operation teams, efficiently oversee projects and accelerated work schedules.
+- Extensive expertise conceptualisation and financial assessment to optimize investment returns for owners.
+- Achievements include:
+    -Led the reuse of tire waste from hauling trucks as a sustainable material in structural support, reducing landfill waste and enhancing construction durability.
+    - Implemented and coached the team in Autodesk BIM, improving project efficiency, streamlining workflows, and reducing material waste through precise planning and resource management
 
 
 ---
 
-## Skills
+### Skills
 
 - **Project Delivery** – Infrastructure, stakeholder coordination, EPCM  
 - **Engineering Tools** – AutoCAD Civil 3D, Revit, MS Project, Power BI  
@@ -39,24 +39,24 @@ ___
 
 ---
 
-## Experience
+### Experience
 
-### Civil & Construction Assistant Manager — PT ANTAM  
+#### Civil & Construction Assistant Manager — PT ANTAM  
 *Jul 2021 – Jun 2024*
 
-- Managed civil and vertical infrastructure projects in a mining area  
+- Managed infrastructure projects in a mining area  
 - Oversaw utilities, earthworks, buildings, and mine road construction  
 - Delivered IDR 20B+ in CAPEX/OPEX with 5% cost savings  
 - Led a cross-functional team of engineers and contractors with zero LTI
 
-### Civil Engineer — PT ANTAM  
+#### Civil Engineer — PT ANTAM  
 *Jan 2019 – Jun 2021*
 
 - Prepared technical and financial evaluations for infrastructure projects  
 - Reviewed contractor claims, inspected site progress, and tracked costs  
 - Designed site layout plans using Civil 3D, AutoCAD, and QGIS
 
-### Assistant QHSE & Engineering Manager — PT Jasa Marga  
+#### Assistant QHSE & Engineering Manager — PT Jasa Marga  
 *Aug 2016 – Dec 2018*
 
 - Supervised QHSE and construction documentation for Batang–Semarang toll road  
@@ -65,14 +65,14 @@ ___
 
 ---
 
-## Recognition
+### Recognition
 
 **Certified Project Finance & Infrastructure** — Issued by Credly (2023)  
 ![Credly Badge](/assets/img/credly-badge.png)
 
 ---
 
-## Education
+### Education
 
 - **Master of Engineering Management** — University of Melbourne (Expected 2025)  
 - **Professional Engineer Certification** — Institut Teknologi Bandung (2022)  
@@ -80,7 +80,7 @@ ___
 
 ---
 
-## Personal Projects
+### Personal Projects
 
 **Transport & Infrastructure Blog**  
 Writing and sharing ideas on transport modeling, sustainability, and engineering decision-making on [mnote](https://mkalifardi.github.io).
@@ -90,7 +90,7 @@ Maintaining a markdown-first second brain (this site!) to document ongoing learn
 
 ---
 
-## Interests
+### Interests
 
 - Transport systems, sustainable infrastructure, and smart mobility  
 - Financial modeling for capital-intensive projects  
@@ -98,10 +98,8 @@ Maintaining a markdown-first second brain (this site!) to document ongoing learn
 
 ---
 
-## Additional Links
+### Additional Links
 
-- [GitHub](https://github.com/mkalifardi)  
 - [LinkedIn](https://linkedin.com/in/mkalifardi)  
-- [Email](mailto:m.kalifardi@gmail.com)
 
 ---
