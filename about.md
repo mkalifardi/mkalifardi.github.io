@@ -66,7 +66,7 @@ permalink: /about/
 ### Recognition
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-  <img src="https://media.au.badgr.com/uploads/badges/assertion-FevBKvM4SJ-XM1H6ddgojg.svg?versionId=ggkwa3EbZFat0rQJDuCeaOYMGSXL7NPh" alt="Melbourne Plus Badge" width="60" height="60" style="border-radius: 6px;" />
+  <img src="https://media.au.badgr.com/uploads/badges/assertion-FevBKvM4SJ-XM1H6ddgojg.svg?versionId=ggkwa3EbZFat0rQJDuCeaOYMGSXL7NPh" alt="Melbourne Plus Badge" width="70" height="70" style="border-radius: 6px;" />
   <div>
     <strong>Melbourne Plus: People Leadership</strong><br />
     University of Melbourne<br />
