@@ -25,7 +25,7 @@ Too often in the public sector (and in business), investments are shaped by assu
 
 At this stage, the focus is not on the **asset** (e.g., a building or system), but on the **logic** behind the investment.
 
-![Investment Logic Map](/assets/images/ILM-map.png)
+![Investment Logic Map](/assets/images/ilm-map.png)
 
 ##### Key Tools:
 - **Investment Logic Map (ILM):** A one-page model showing the cause-effect relationship between the problem, expected benefits, and a conceptual solution.
