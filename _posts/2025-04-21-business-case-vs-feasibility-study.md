@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Business Case vs. Feasibility Study: Are They the Same?"
-date: 2025-04-20
+date: 2025-04-21
 tags: [investment, public-policy, business-case, indonesia, feasibility]
 ---
 
