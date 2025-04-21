@@ -31,7 +31,7 @@ In the **third phase** of the Investment Lifecycle (after Strategic Assessment a
 - Delivery timelines and governance structure
 - Clear benefit realization plan with KPIs
 
-> 💡 Think of it as a document to convince government decision-makers: “This is the right investment, at the right time, for the right reasons.”
+> Think of it as a document to convince government decision-makers: “This is the right investment, at the right time, for the right reasons.”
 
 ---
 
