@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Started mnote"
-date: 2025-04-20
+date: 2025-04-12
 tags: [intro, second-brain, personal]
 ---
 
